@@ -10,6 +10,10 @@
 | **Type** | **Date** | **Contents** | **Organizaition** |
 |:--------:|:--------:|:--------:|:--------:|
 | *Education* | 2017.03 ~ 2020.12| department of Sport Medicine, Industrial Management Engineering | Kyunghee University|
+| *Field experience*| 201|마이베네핏 | Mybenefit|
+| *Experience*| dd| dd| dd|
+
+
 
 <!--
 **so02e/so02e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
