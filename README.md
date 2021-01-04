@@ -9,9 +9,10 @@
 #### Career
 | **Type** | **Date** | **Contents** | **Organizaition** |
 |:--------:|:--------:|:--------:|:--------:|
-| *Education* | 2017.03 ~ 2020.12| department of Sport Medicine, Industrial Management Engineering | Kyunghee University|
-| *Field experience*| 201|마이베네핏 | Mybenefit|
-| *Experience*| dd| dd| dd|
+| *Education* | 2017.03 ~ | department of Sport Medicine, Industrial Management Engineering | Kyunghee University|
+| *Field experience*| 2019.07 ~ 08| 가상현실 운동기기 데이터 검증 | Mybenefit|
+| *Field experience*| 2020.07 ~ 08| ROM 재활 컨텐츠 프로젝트 | Mybenefit|
+| *Experience*| 2019.02 ~ 06| 축구산업아카데미 11기 수료 | 한국프로축구연맹|
 
 
 
