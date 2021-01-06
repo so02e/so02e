@@ -31,5 +31,5 @@
 | *Experience* | 2018.09 ~ 12| Coding Education Voulunteer Using Micro:bit | JA Korea |
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=💟&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=💟👋💟♀&fontSize=90)
 
