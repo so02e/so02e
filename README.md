@@ -4,6 +4,7 @@
 #### 🌱 Currently, I am building up my data analysis capabilities through the 'k-digital' curriculum of the multicampus.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=so02e&show_icons=true)
+github-readme-stats.vercel.app/api/top-langs/?username={so02e}&langs_count=8
 
 #### teck stack
 <a href="링크걸_주소"><img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp
