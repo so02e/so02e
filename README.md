@@ -1,4 +1,6 @@
-### Hi there  👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+
+
 #### My major is Sport Medicine :soccer: & Industrial Management Engineering :mortar_board: since 2017.
 #### 🌱 Currently, I am building up my data analysis capabilities through the 'k-digital' curriculum of the multicampus.
 
