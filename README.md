@@ -3,6 +3,9 @@
 #### My major is Sport Medicine :soccer: & Industrial Management Engineering :mortar_board: since 2017.
 #### 🌱 Currently, I am building up my data analysis capabilities through the 'k-digital' curriculum of the multicampus.
 
+http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/sso02e)
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=so02e&show_icons=true)
 ![Github Stats](github-readme-stats.vercel.app/api/top-langs/?username={so02e}&langs_count=8)
 
