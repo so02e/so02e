@@ -1,10 +1,9 @@
-#### ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi there 🙌🏻 &fontSize=90)
+#### ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi there🏻 &fontSize=90)
 
 #### My major is Sport Medicine :soccer: & Industrial Management Engineering :mortar_board: since 2017.
 #### 🌱 Currently, I am building up my data analysis capabilities through the 'k-digital' curriculum of the multicampus.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
-github-readme-stats.vercel.app/api?username={so02e}&show_icons=true
+![Github Stats](https://github-readme-stats.vercel.app/api?username=so02e&show_icons=true)
 
 #### teck stack
 <a href="링크걸_주소"><img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp
