@@ -1,14 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%World!&fontSize=90)
 
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fso02e&count_bg=%23FDACCD&title_bg=%23F5435E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-#### My major is Sport Medicine :soccer: & Industrial Management Engineering :mortar_board: since 2017.
-#### 🌱 Currently, I am building up my data analysis capabilities through the 'k-digital' curriculum of the multicampus.
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:so970404@gmail.com)](mailto:so970404@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_so02e_/)](https://www.instagram.com/_so02e_/) 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/sso02e)](https://blog.naver.com/sso02e)
+
+
+#### My major is Sport Medicine :soccer: & Industrial Management Engineering :mortar_board: since 2017.
+#### 🌱 Currently, I am building up my data analysis capabilities through the 'k-digital' curriculum of the multicampus.
+
+
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=so02e&show_icons=true)
