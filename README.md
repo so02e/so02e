@@ -1,4 +1,4 @@
-#### ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)]
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fso02e&count_bg=%23FDACCD&title_bg=%23F5435E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 #### My major is Sport Medicine :soccer: & Industrial Management Engineering :mortar_board: since 2017.
@@ -10,9 +10,7 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=so02e&show_icons=true)
-![Github Stats](github-readme-stats.vercel.app/api/top-langs/?username={so02e}&langs_count=8)
-github-readme-stats.vercel.app/api/top-langs/?username={so02e}&langs_count=8
-
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={so02e}&langs_count=8)
 #### teck stack
 <a href="링크걸_주소"><img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp
 
