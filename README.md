@@ -1,4 +1,4 @@
-#### ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
+#### ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi there! 🖐🏻 &fontSize=80)
 
 
 #### My major is Sport Medicine :soccer: & Industrial Management Engineering :mortar_board: since 2017.
