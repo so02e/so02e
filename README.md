@@ -11,7 +11,6 @@
 
 
 
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=so02e&show_icons=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={so02e}&langs_count=8)
 #### :school_satchel: teck stack
