@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fso02e&count_bg=%23FDACCD&title_bg=%23F5435E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:so970404@gmail.com)](mailto:so970404@gmail.com)
@@ -27,5 +27,5 @@ python
 | *Experience* | 2019.02 ~ 06| Football Industry Academy 11th | Korea Professional Football League |
 | *Experience* | 2018.09 ~ 12| Coding Education Voulunteer Using Micro:bit | JA Korea |
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Bye%World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&rotate=-180)
 
