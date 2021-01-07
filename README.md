@@ -8,8 +8,7 @@
 #### My major is Sport Medicine :soccer: & Industrial Management Engineering :mortar_board: since 2017.
 #### 🌱 Currently, I am building up my data analysis capabilities through the 'k-digital' curriculum of the multicampus.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=so02e&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so02e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=so02e&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so02e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :school_satchel: teck stack
 
