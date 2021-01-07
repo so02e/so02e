@@ -27,5 +27,5 @@ python
 | *Experience* | 2019.02 ~ 06| Football Industry Academy 11th | Korea Professional Football League |
 | *Experience* | 2018.09 ~ 12| Coding Education Voulunteer Using Micro:bit | JA Korea |
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&rotate=-180)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&rotate=180)
 
