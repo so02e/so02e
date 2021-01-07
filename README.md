@@ -9,7 +9,9 @@
 #### 🌱 Currently, I am building up my data analysis capabilities through the 'k-digital' curriculum of the multicampus.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=so02e&show_icons=true)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={so02e}&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![so02e's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=so02e)](https://github.com/anuraghazra/github-readme-stats)
+
 #### :school_satchel: teck stack
 
 Java
