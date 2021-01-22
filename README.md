@@ -10,7 +10,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=so02e&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so02e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### :school_satchel: Teck stack
+#### :school_satchel: Tec stack
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
