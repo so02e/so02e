@@ -17,7 +17,7 @@
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![GoogleAnalytics Badge](https://img.shields.io/badge/GoogleAnalytics-E37400?style=flat-square&logo=GoogleAnalytics&logoColor=white)
+![Google Analytics Badge](https://img.shields.io/badge/GoogleAnalytics-E37400?style=flat-square&logo=GoogleAnalytics&logoColor=white)
 
 
 
