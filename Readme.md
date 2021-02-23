@@ -13,13 +13,14 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=so02e&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so02e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :school_satchel: Tech stack
-
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Github Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white)
+![Kakao Badge](https://img.shields.io/badge/KakaoMap-FFCD00?style=flat-square&logo=Kakao&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![Google Analytics Badge](https://img.shields.io/badge/GoogleAnalytics-E37400?style=flat-square&logo=Google%20Analytics&logoColor=white)
 
