@@ -19,8 +19,7 @@
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
-![Google Analytics Badge](https://img.shields.io/badge/GoogleAnalytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white)
-
+![Google Analytics Badge](https://img.shields.io/badge/GoogleAnalytics-E37400?style=flat-square&logo=Google%20Analytics&logoColor=white)
 
 
 #### :gift_heart: Career
