@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fso02e&count_bg=%23FDACCD&title_bg=%23F5435E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:so970404@gmail.com)](mailto:so970404@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_so02e_/)](https://www.instagram.com/_so02e_/) 
-[![Blog Badge](https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/sso02e)](https://blog.naver.com/sso02e) 
+[![NaverBlog Badge](https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/sso02e)](https://blog.naver.com/sso02e) 
 
 
 
