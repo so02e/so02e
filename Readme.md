@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:so970404@gmail.com)](mailto:so970404@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_so02e_/)](https://www.instagram.com/_so02e_/) 
 [![NaverBlog Badge](https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/sso02e)](https://blog.naver.com/sso02e) 
+[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Naver&logoColor=white&link=https://www.notion.so/so02e)](https://www.notion.so/so02e) 
 
 
 
