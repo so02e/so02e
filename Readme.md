@@ -29,7 +29,8 @@
 #### :gift_heart: Career
 | **Type** | **Date** | **Contents** | **Organizaition** |
 |:--------:|:--------:|:--------:|:--------:|
-| *Education* | 2017.03 ~ | department of Sport Medicine, Industrial Management Engineering | Kyunghee University|
+| *Intern* | 2022.01 ~ 2022.03 | Service Product Manager | Golfzon |
+| *Education* | 2017.03 ~ 2022.02 | department of Sport Medicine, Industrial Management Engineering | Kyunghee University|
 | *Intern* | 2021.06 ~ 2021.12 | Strategy & Planning | Sandbox Network |
 | *Field experience* | 2019.07 ~ 08| Verification of data on virtual reality exercise data | Mybenefit |
 | *Field experience* | 2020.07 ~ 08| Project Planning for Rehabilitation Movement Using ROM | Mybenefit |
